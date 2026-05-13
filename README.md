@@ -10,7 +10,6 @@ Real-time frame processing using YOLOv8
 Video-based computer vision application
 Simple and efficient Python implementation
 
-<img width="416" height="416" alt="6d5d24e86c1ff260_jpg rf f7acfa6e4c8049353976699fcd4d515f" src="https://github.com/user-attachments/assets/21d56c31-bfd7-49f5-97f4-f19a9329fa41" />
 <img width="416" height="416" alt="6a16101bb9217422_jpg rf 8WKpVgqqjh9DUhom2WOC" src="https://github.com/user-attachments/assets/dc6c0711-76c0-4710-9133-75ad9ea569bf" />
 <img width="416" height="416" alt="1ef77c61856d3b4b_jpg rf a528f50763101224fad39907062c5026" src="https://github.com/user-attachments/assets/4d168d39-53df-437e-a720-5ce9f10be0a7" />
 <img width="416" height="416" alt="00dea1edf14f09ab_jpg rf 3f17c8790a68659d03b1939a59ccda80" src="https://github.com/user-attachments/assets/efd224b9-92db-4ba5-8383-3567f89eabdc" />
