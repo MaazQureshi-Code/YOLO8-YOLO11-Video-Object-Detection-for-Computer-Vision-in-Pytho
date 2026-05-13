@@ -1,0 +1,16 @@
+# Ignore model weights and large binary files
+weights/
+*.pt
+
+# Ignore dataset and detection output folders
+Video img Test/detect/
+Video img Test/detect-*/
+
+# Ignore local Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment / editor files
+.env
+.vscode/
