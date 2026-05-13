@@ -1,6 +1,7 @@
 # Ignore model weights and large binary files
 weights/
 *.pt
+!weights/best.pt
 
 # Ignore dataset and detection output folders
 Video img Test/detect/
